@@ -1,0 +1,7 @@
+<?
+  $filter_location = "[your state]";
+  $api_key = "[your key]";
+  $dpla_pattern = "http://api.dp.la/v2/items?q={query_terms}&page_size=25&page={page}&sourceResource.spatial=" . $filter_location . "&api_key=" . $api_key;
+  $dpla_item_pattern = "http://api.dp.la/v2/items/{item_id}?api_key=" . $api_key;
+
+?>

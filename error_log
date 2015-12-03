@@ -1,0 +1,215 @@
+[02-Dec-2015 19:22:34 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/lib/header.php on line 2
+[02-Dec-2015 19:22:36 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/lib/header.php on line 2
+[02-Dec-2015 19:22:57 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/lib/header.php on line 2
+[02-Dec-2015 19:22:59 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/lib/header.php on line 2
+[02-Dec-2015 19:31:25 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 4
+[02-Dec-2015 19:31:25 America/Denver] PHP Warning:  include(): Failed opening 'lib/faq.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 5
+[02-Dec-2015 19:36:35 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 4
+[02-Dec-2015 19:36:35 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/reesetne/public_html/dplaohio-portal/lib/faq.php on line 2
+[02-Dec-2015 19:36:37 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 4
+[02-Dec-2015 19:36:37 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/reesetne/public_html/dplaohio-portal/lib/faq.php on line 2
+[02-Dec-2015 19:37:10 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 4
+[02-Dec-2015 19:38:31 America/Denver] PHP Warning:  include(): Failed opening 'lib/css.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 4
+[02-Dec-2015 19:38:31 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 11
+[02-Dec-2015 19:42:26 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 11
+[02-Dec-2015 19:44:13 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:44:16 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:44:31 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:44:32 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:45:21 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:45:23 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:46:42 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:47:08 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:47:10 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:48:07 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:54:57 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:55:28 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/index.php on line 14
+[02-Dec-2015 19:55:30 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/index.php on line 14
+[02-Dec-2015 19:55:45 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:56:50 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 19:56:55 America/Denver] PHP Warning:  include(): Failed opening 'lib/results.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/reesetne/public_html/dplaohio-portal/index.php on line 12
+[02-Dec-2015 20:09:37 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 5
+[02-Dec-2015 20:09:42 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 5
+[02-Dec-2015 20:11:05 America/Denver] PHP Notice:  Undefined variable: dpla_pattern in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 10
+[02-Dec-2015 20:11:36 America/Denver] PHP Notice:  Undefined variable: dpla_pattern in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 10
+[02-Dec-2015 20:15:14 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 30
+[02-Dec-2015 20:34:47 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 19
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:36:35 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:38:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:39:17 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:40:31 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 40
+[02-Dec-2015 20:41:40 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:50:14 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:51:37 America/Denver] PHP Notice:  Undefined index: sourceResourc in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 41
+[02-Dec-2015 20:56:54 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 20:58:56 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 20:59:35 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 20:59:45 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:06:32 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:06:35 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:06:46 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:08:30 America/Denver] PHP Warning:  file_get_contents(http://api.dp.la/v2/items?q=indian mounds&amp;page_size=25&amp;page=1&amp;sourceResource.spatial=Ohio&amp;api_key=2ceca951f1e64a6c7ae9786f6a7217ba): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 14
+[02-Dec-2015 21:08:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 24
+[02-Dec-2015 21:08:41 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:10:54 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:17:03 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 42
+[02-Dec-2015 21:18:58 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:19:18 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:20:30 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:20:41 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:24:07 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:27:03 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 43
+[02-Dec-2015 21:35:00 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:46:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 104
+[02-Dec-2015 21:47:47 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:50:04 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:52:30 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:53:30 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:53:30 America/Denver] PHP Fatal error:  Call to undefined function int() in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 92
+[02-Dec-2015 21:54:29 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:54:29 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:56:07 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:56:56 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:57:20 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 21:57:26 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:01:49 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:02:23 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:02:45 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:02:51 America/Denver] PHP Warning:  file_get_contents(http://api.dp.la/v2/items?q=cleveland and baseball&amp;page_size=25&amp;page=1&amp;sourceResource.spatial=Ohio&amp;api_key=2ceca951f1e64a6c7ae9786f6a7217ba): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 14
+[02-Dec-2015 22:02:51 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 24
+[02-Dec-2015 22:02:57 America/Denver] PHP Warning:  file_get_contents(http://api.dp.la/v2/items?q=cleveland + baseball&amp;page_size=25&amp;page=1&amp;sourceResource.spatial=Ohio&amp;api_key=2ceca951f1e64a6c7ae9786f6a7217ba): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 14
+[02-Dec-2015 22:02:57 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 24
+[02-Dec-2015 22:03:05 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:03:12 America/Denver] PHP Warning:  file_get_contents(http://api.dp.la/v2/items?q=cleveland indians&amp;page_size=25&amp;page=1&amp;sourceResource.spatial=Ohio&amp;api_key=2ceca951f1e64a6c7ae9786f6a7217ba): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 14
+[02-Dec-2015 22:03:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 24
+[02-Dec-2015 22:03:22 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:04:27 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 54
+[02-Dec-2015 22:12:32 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 22:22:54 America/Denver] PHP Notice:  Undefined index: @id in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 83
+[02-Dec-2015 22:22:57 America/Denver] PHP Notice:  Undefined index: @id in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 83
+[02-Dec-2015 22:39:08 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:14:13 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:14:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/reesetne/public_html/dplaohio-portal/lib/item_page.php on line 89
+[02-Dec-2015 23:15:20 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:15:20 America/Denver] PHP Notice:  Undefined index: date in /home1/reesetne/public_html/dplaohio-portal/lib/item_page.php on line 38
+[02-Dec-2015 23:15:20 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/item_page.php on line 73
+[02-Dec-2015 23:17:09 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:17:09 America/Denver] PHP Notice:  Array to string conversion in /home1/reesetne/public_html/dplaohio-portal/lib/item_page.php on line 73
+[02-Dec-2015 23:20:05 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:20:25 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:22:46 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:23:15 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:24:36 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:30:54 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:35:08 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:35:35 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:36:45 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:37:14 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:37:16 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:39:18 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 50
+[02-Dec-2015 23:40:27 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:47:55 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:51:07 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:52:27 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[02-Dec-2015 23:52:32 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 05:28:43 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:43:25 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:43:51 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:44:06 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:46:26 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:46:31 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:47:56 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:48:26 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:49:13 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 06:49:23 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:08:42 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:08:56 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:09:06 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:09:18 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:51:56 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:55:33 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:56:17 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:56:21 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:56:27 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 07:59:10 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 08:10:51 America/Denver] PHP Notice:  Undefined index: q in /home1/reesetne/public_html/dplaohio-portal/lib/search.php on line 2
+[03-Dec-2015 08:11:00 America/Denver] PHP Notice:  Undefined index: description in /home1/reesetne/public_html/dplaohio-portal/lib/results.php on line 65
