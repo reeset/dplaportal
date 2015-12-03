@@ -5,3 +5,5 @@ simple portal targeting content about a specific location.
 
 Want to run it -- just download the files, and set your api_key and location to limit by in the lib/constants.php file (sample of this 
 file is in the lib/constants.php.pattern file)
+
+Please note -- this isn't an active project.  It's just a proof of concept.
